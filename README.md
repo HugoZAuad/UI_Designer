@@ -1,4 +1,3 @@
-# Desafio_2_DNC_UI_Designer
 Criação de um app no Figma
 
 Link do Figma:
